@@ -4,5 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is still under construction, maybe check it out later!
+  Still under construction, maybe later
 </p>
+
+Maybe <a href="{{ site.baseurl }}/">head back home</a> and look for something else?
