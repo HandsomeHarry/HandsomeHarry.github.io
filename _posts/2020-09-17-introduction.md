@@ -11,4 +11,7 @@ Hello there! This is a website on all sorts of weird projects I do, just for fun
 Links to projects:
 * SSD Case [https://handsomeharry.github.io/2020-09-17-ssd-case]
 
-*"Still under construction..."*
+
+
+
+*Still under construction...*
