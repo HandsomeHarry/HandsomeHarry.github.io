@@ -2,11 +2,11 @@
 layout: page
 title: About
 ---
-
-*This is the blog of HarryYu31*
-
------
+<br>
+*This is HarryYu31's blog*
+<br>
 Hello there! This is a website about all sorts of weird projects I do, just for fun though, nothing serious
+-----
 
 # Links to projects:
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
