@@ -2,17 +2,22 @@
 layout: page
 title: About
 ---
-
-*This is the blog of HarryYu31*
-
------
+<br>
+*This is HarryYu31's blog*
+<br>
 Hello there! This is a website about all sorts of weird projects I do, just for fun though, nothing serious
+-----
 
-Links to projects:
-* <a href="{{ site.baseurl }}/_posts/2020-09-17-ssd-case/"> Minimalistic SSD Case</a>
-* <a href="{{ site.baseurl }}/_posts/2020-09-17-mouse-key/"> Lightweight G305 mouse key model</a>
-
-
+# Links to projects:
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+{% for yearMonth in postsByYearMonth %}
+  <h2>{{ yearMonth.name }}</h2>
+  <ul>
+    {% for post in yearMonth.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 
 
