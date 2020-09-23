@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <br>
-*This is HarryYu31's blog*
+*MiniProjects*
 <br>
 Hello there! This is a website about all sorts of weird projects I do, just for fun though, nothing serious
 -----
