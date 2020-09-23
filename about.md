@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 <br>
-*MiniProjects*
+*Welcome to MiniProjects.icu!*
 <br>
-Hello there! This is a website about all sorts of weird projects I do, just for fun though, nothing serious
+Hello there! This is a website about all sorts of random projects I do, just for fun though, nothing serious
 -----
 
 # Links to projects:
