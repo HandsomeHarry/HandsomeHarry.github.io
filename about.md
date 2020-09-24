@@ -19,6 +19,7 @@ Hello there! This is a website about all sorts of random projects I do, just for
   </ul>
 {% endfor %}
 
+Check out the Telegram Bot [here.](t.me/miniprojects_bot) Harass the bot and it will give you download links for all the projects
 
 
 <br><br><br><br><br>*Still under construction...*<br><br><br>
