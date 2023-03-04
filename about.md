@@ -5,7 +5,7 @@ title: About
 <br>
 *Welcome to MiniProjects.icu!*
 <br>
-Hi there! This website is about random projects I do for fun. Check out the [About](/about) Section for projects or stalk me [here!](https://linktr.ee/harryyu31)
+Hi there! This website is about random projects I do for fun. Check out the [Archive](/archive) Section for projects or stalk me [here!](https://linktr.ee/harryyu31)
 -----
 
 
