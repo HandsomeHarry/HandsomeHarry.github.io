@@ -8,9 +8,9 @@ I went to lake Winnepesaukee right before christmas because I saw some really cl
 
 
 ![pleiades](/picture/star-pics/pleiades.jpg.webp)
-![pleiades](/picture/star-pics/orion%20nebula.jpg.webp)
-![pleiades](/picture/star-pics/orion%20on%20lake.jpg.webp)
-![pleiades](/picture/star-pics/penis.jpg.webp)
-![pleiades](/picture/star-pics/portal%20dock.jpg.webp)
-![pleiades](/picture/star-pics/sunset%20island.jpg.webp)
-![pleiades](/picture/star-pics/7xing.png.webp)
+![orion-nebula](/picture/star-pics/orion%20nebula.jpg.webp)
+![orion-on-lake](/picture/star-pics/orion%20on%20lake.jpg.webp)
+![penis](/picture/star-pics/penis.jpg.webp)
+![portal-on-dock](/picture/star-pics/portal%20dock.jpg.webp)
+![sunset-island](/picture/star-pics/sunset%20island.jpg.webp)
+![big-dipper](/picture/star-pics/7xing.png.webp)
