@@ -4,7 +4,7 @@ title: 3D Printing test
 ---
 
 ## Why did I do this?
-Having taken the new ENGR-11 course at my university, I got the mission of making a 3D print and showing it in this writeup. So I started looking for an overhang test, and after a bit of roaming on Thingiverse, I found [this](https://www.thingiverse.com/thing:2972495), and here is the final print after 1h02m of printing with PLA on a Prusa Mini:
+Having taken the new ENGR-11 course at my university, I got the mission of making a 3D print and showing it in this writeup. So I started looking for an overhang test, and after a bit of roaming on Thingiverse, I found [this](https://www.thingiverse.com/thing:2972495), and here is the final print after 1h02m of printing with PLA on a Prusa Mini, with 60C bed temperature and 215C nozzle temp:
 
 [![top-view](/picture/3d-print-1/top-view.jpg)](/picture/3d-print-1/top-view.jpg)
 
